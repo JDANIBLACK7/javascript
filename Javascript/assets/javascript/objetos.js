@@ -105,9 +105,10 @@ const {
             padre,
             madre
         }
-    }
+    },
+    informacionPersonal
 } = medico;
 
 medico.sexo="masculino";
-console.log(medico);
+console.log(informacionPersonal);
 delete medico.informacionPersonal;
