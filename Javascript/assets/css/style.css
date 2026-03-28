@@ -99,3 +99,30 @@ form div button{
     height: 20px;
     margin-left: 70px;
 }
+
+.boton{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+}
+
+.red{
+background-color: brown;
+text-decoration: underline;
+width: 500px;
+height: 50px;
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.btnn{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+}
